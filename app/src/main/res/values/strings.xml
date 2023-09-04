@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Onam Wishes</string>
+
+
+<!--    <string name="SERVER_URL">http://192.168.43.200:80/Projects/Aug1947/</string>-->
+<!--    <string name="DM_THUMB_URL">http://192.168.43.200:80/Projects/Aug1947/UPLOADS/</string>-->
+
+
+
+
+
+        <string name="SERVER_URL">https://jerryjohnsonp.000webhostapp.com/Others/Projects/Aug1947/</string>
+        <string name="DM_THUMB_URL">https://jerryjohnsonp.000webhostapp.com/Others/Projects/Aug1947/UPLOADS/</string>
+
+
+</resources>
